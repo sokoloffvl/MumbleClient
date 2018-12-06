@@ -17,7 +17,7 @@ namespace MumbleClient
     public class ConsoleMumbleProtocol
         : BasicMumbleProtocol
     {
-        readonly Dictionary<User, AudioPlayer> _players = new Dictionary<User, AudioPlayer>(); 
+        private readonly Dictionary<User, AudioPlayer> _players = new Dictionary<User, AudioPlayer>(); 
 
         public override void EncodedVoice(byte[] data, uint userId, long sequence, IVoiceCodec codec, SpeechTarget target)
         {
@@ -32,7 +32,8 @@ namespace MumbleClient
         {
             base.UserJoined(user);
 
-            _players.Add(user, new AudioPlayer(user.Voice));
+            if (!_players.ContainsKey(user)) 
+                _players.Add(user, new AudioPlayer(user.Voice));
         }
 
         protected override void UserLeft(User user)
@@ -52,14 +53,14 @@ namespace MumbleClient
         protected override void ChannelMessageReceived(ChannelMessage message)
         {
             if (message.Channel.Equals(LocalUser.Channel))
-                Console.WriteLine(string.Format("{0} (channel message): {1}", message.Sender.Name, message.Text));
+                Console.WriteLine("{0} (channel message): {1}", message.Sender.Name, message.Text);
 
             base.ChannelMessageReceived(message);
         }
 
         protected override void PersonalMessageReceived(PersonalMessage message)
         {
-            Console.WriteLine(string.Format("{0} (personal message): {1}", message.Sender.Name, message.Text));
+            Console.WriteLine("{0} (personal message): {1}", message.Sender.Name, message.Text);
 
             base.PersonalMessageReceived(message);
         }

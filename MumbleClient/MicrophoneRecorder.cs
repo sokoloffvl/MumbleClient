@@ -39,7 +39,9 @@ namespace MumbleClient
 
             //Send to the channel LocalUser is currently in
             if (_protocol.LocalUser != null && _protocol.LocalUser.Channel != null)
+            {
                 _protocol.LocalUser.Channel.SendVoice(new ArraySegment<byte>(e.Buffer, 0, e.BytesRecorded));
+            }
         }
 
         public void Record()
