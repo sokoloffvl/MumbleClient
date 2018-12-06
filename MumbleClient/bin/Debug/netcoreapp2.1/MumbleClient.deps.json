@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "382a08f17d4ae2e86b1a74cd66e20bc5aaed4620"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MumbleClient/1.0.0": {
+        "dependencies": {
+          "NAudio": "1.8.5",
+          "MumbleSharp": "1.0.0.0"
+        },
+        "runtime": {
+          "MumbleClient.dll": {}
+        }
+      },
+      "NAudio/1.8.5": {
+        "runtime": {
+          "lib/net35/NAudio.dll": {
+            "assemblyVersion": "1.8.5.0",
+            "fileVersion": "1.8.5.0"
+          }
+        }
+      },
+      "MumbleSharp/1.0.0.0": {
+        "runtime": {
+          "MumbleSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "protobuf-net/2.3.7.0": {
+        "runtime": {
+          "protobuf-net.dll": {
+            "assemblyVersion": "2.3.7.0",
+            "fileVersion": "2.3.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MumbleClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NAudio/1.8.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kLvCjDm9et0n2ITibT0WMXml0ZjOG0lnKlXIDzd2rmD/gi3UAH7rM/H4Gs9yOmc5ODMPfF6PFzcaPskH4praXA==",
+      "path": "naudio/1.8.5",
+      "hashPath": "naudio.1.8.5.nupkg.sha512"
+    },
+    "MumbleSharp/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "protobuf-net/2.3.7.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

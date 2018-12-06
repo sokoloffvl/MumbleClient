@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Hackaton\MumbleClient" t="IncludeFlat">
+      <e p="MumbleClient" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleMumbleProtocol.cs" t="Include" />
+        <e p="MicrophoneRecorder.cs" t="Include" />
+        <e p="MumbleClient.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="MumbleClient.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="server.txt" t="Include" />
+      </e>
+      <e p="MumbleClient.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\v.sokolov\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\v.sokolov\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_MumbleClient.-2128084308.00" t="ExcludeRecursive" />
+  </component>
+</project>

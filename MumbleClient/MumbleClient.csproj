@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="NAudio" Version="1.8.5" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="MumbleSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\MumbleSharp\MumbleSharp\bin\Debug\MumbleSharp.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

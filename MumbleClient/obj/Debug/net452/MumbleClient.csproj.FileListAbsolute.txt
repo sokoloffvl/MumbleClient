@@ -1,0 +1,17 @@
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\MumbleClient.exe
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\MumbleClient.pdb
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\NAudio.dll
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\MumbleSharp.dll
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\NSpeex.dll
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\protobuf-net.dll
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\MumbleSharp.pdb
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\NSpeex.pdb
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\NSpeex.xml
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\net452\protobuf-net.xml
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\net452\MumbleClient.csprojAssemblyReference.cache
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\net452\MumbleClient.csproj.CoreCompileInputs.cache
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\net452\MumbleClient.AssemblyInfoInputs.cache
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\net452\MumbleClient.AssemblyInfo.cs
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\net452\MumbleClient.csproj.CopyComplete
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\net452\MumbleClient.exe
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\net452\MumbleClient.pdb

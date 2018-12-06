@@ -1,0 +1,16 @@
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\MumbleClient.deps.json
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\MumbleClient.runtimeconfig.json
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\MumbleClient.runtimeconfig.dev.json
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\MumbleClient.dll
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\MumbleClient.pdb
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\MumbleSharp.dll
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\protobuf-net.dll
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\MumbleSharp.pdb
+C:\Hackaton\MumbleClient\MumbleClient\bin\Debug\netcoreapp2.1\protobuf-net.xml
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\netcoreapp2.1\MumbleClient.csprojAssemblyReference.cache
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\netcoreapp2.1\MumbleClient.csproj.CoreCompileInputs.cache
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\netcoreapp2.1\MumbleClient.AssemblyInfoInputs.cache
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\netcoreapp2.1\MumbleClient.AssemblyInfo.cs
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\netcoreapp2.1\MumbleClient.csproj.CopyComplete
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\netcoreapp2.1\MumbleClient.dll
+C:\Hackaton\MumbleClient\MumbleClient\obj\Debug\netcoreapp2.1\MumbleClient.pdb
